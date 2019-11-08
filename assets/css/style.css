@@ -2,3 +2,11 @@ header {
     border-bottom: 2px solid #ccc;
 }
 
+container {
+    background-color: cadetblue;
+}
+
+li {
+    display: list-item;
+    text-align: right;
+}
